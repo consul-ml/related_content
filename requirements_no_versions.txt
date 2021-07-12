@@ -1,0 +1,7 @@
+numpy
+pandas
+stanza
+tqdm
+nltk
+gensim
+scikit-learn
