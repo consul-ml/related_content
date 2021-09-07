@@ -10,6 +10,7 @@ Related Proposals and Tags
 This script generates for each proposal: a) Tags, b) List of related proposals.
 Running time: Max 2 hours for 10.000 proposals.
 Technique used: NNMF and Euclidean distance between proposals.
+More info in: https://github.com/consul-ml/consul-ml
 """
 
 

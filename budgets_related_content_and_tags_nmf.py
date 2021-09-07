@@ -10,6 +10,7 @@ Related Participatory Budgeting projects and Tags
 This script generates for each project: a) Tags, b) List of related projects.
 Running time: Max 2 hours for 10.000 projects.
 Technique used: NNMF and Euclidean distance between projects.
+More info in: https://github.com/consul-ml/consul-ml
 """
 
 
